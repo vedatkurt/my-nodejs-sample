@@ -1,0 +1,24 @@
+{
+  "name": "vedat-kurt",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "vedat": "echo 'Benim adim Vedat'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedatkurt/my-nodejs-sample.git"
+  },
+  "keywords": [
+    "Vedat",
+    "Kurt"
+  ],
+  "author": "Vedat Kurt",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.10",
+    "simple-is": "^0.2.0"
+  }
+}
